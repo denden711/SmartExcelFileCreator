@@ -1,6 +1,3 @@
-# SmartExcelFileCreator
- 
-
 ---
 
 # SmartExcelFileCreator
